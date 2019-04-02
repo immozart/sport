@@ -11,3 +11,5 @@
 - [Владимир Хван](https://github.com/beshunmo)
 - [Михаил Левин](https://github.com/le0n229)
 - [Вадим Сметанин](https://github.com/immozart)
+- [Рауф Эрк](https://github.com/RaufERK)
+- [Александр Нигамаев](https://github.com/bank45)
